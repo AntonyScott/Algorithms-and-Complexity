@@ -1,0 +1,13 @@
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.exe
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.deps.json
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.runtimeconfig.json
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.runtimeconfig.dev.json
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.dll
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\bin\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.pdb
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.csprojAssemblyReference.cache
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.AssemblyInfoInputs.cache
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.AssemblyInfo.cs
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.dll
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.pdb
+C:\Users\Antony\Documents\C# Projects\Algorithms and Complexity - Antony Scott\obj\Debug\netcoreapp3.1\Algorithms and Complexity - Antony Scott.genruntimeconfig.cache

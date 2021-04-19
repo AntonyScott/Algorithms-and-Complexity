@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algorithms and Complexity - Antony Scott/1.0.0": {
+        "runtime": {
+          "Algorithms and Complexity - Antony Scott.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms and Complexity - Antony Scott/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
